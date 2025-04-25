@@ -11,6 +11,7 @@ html {
 body {
   font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
   height: 100%;
+  background-color: azure;
 }
 
 img {
@@ -19,7 +20,7 @@ img {
 
 header {
   padding: 10px;
-  background-color: darkgreen;
+  background-color: black;
   color: white;
   margin: 0 0 15px 0;
 }
@@ -37,6 +38,6 @@ footer {
   width: 100%;
   margin: 15px 0 0 0;
   padding: 15px;
-  background-color: darkblue;
+  background-color: black;
   color: white;
 }
