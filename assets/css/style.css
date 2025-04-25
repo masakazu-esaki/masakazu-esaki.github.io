@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  padding: 10px;
+  background-color: darkgreen;
+  color: white;
+  margin: 0 0 15px 0;
+}
+
+main {
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+}
+
+footer {
+  text-align: center;
+  position: sticky;
+  top: 100vh;
+  width: 100%;
+  margin: 15px 0 0 0;
+  padding: 15px;
+  background-color: darkblue;
+  color: white;
+}
